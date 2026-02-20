@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: gen-ai-project
+Version: 0.0.1
+Author: Your Name
+Author-email: your@email.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file

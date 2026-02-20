@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+gen_ai_project.egg-info/PKG-INFO
+gen_ai_project.egg-info/SOURCES.txt
+gen_ai_project.egg-info/dependency_links.txt
+gen_ai_project.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
